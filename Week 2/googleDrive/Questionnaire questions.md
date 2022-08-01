@@ -1,4 +1,4 @@
-**Student Questionnaire Mockup**
+**Student Questionnaire Mock-up**
  1. Gender (Intersectionality)
  2. If gender matches assigned sex at birth (Intersectionality)
  3. Ethnicity (Intersectionality)
