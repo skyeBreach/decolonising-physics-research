@@ -1,0 +1,13 @@
+- [ ] Come up with an overaching definition for what decolonising physics means
+- [ ] Look at the definitons for diversification and decolonsation
+	- These need to be distinct definitions as these are different (but linked) topics 
+- [ ] Look at how to present decolonisation to academics to not make them rage
+- [ ] Get a list of questions to look into within this topic and start to narrow down what this project means for me
+- [ ] Try get preliminary data of admissions to the physics department based off:
+	- Ethnicity
+	- Sexuality
+	- Gender identity (Specifically from non cisgender)
+	- disabillity (probably not going to happen due to ethics)
+- [ ] Decide on a preliminary set of questons to ask on the questionaire and give reasoning
+	- [ ] Academics and staff
+	- [ ] Students

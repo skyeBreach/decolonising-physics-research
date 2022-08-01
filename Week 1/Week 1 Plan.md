@@ -1,0 +1,24 @@
+- [ ] Get an overarching plan for the entire project that is fluid enought to allow for tangents etc
+- [x] Read and annotate supplied material then put into this vault key points 
+	- [x] Decolonising Framework
+	- [x] UG chemistry resource
+	- [x] The paper released by the york team (if it is not the same as the above)
+- [x] Send of emails to get the extra resources from the FEPS seminar (doesnt look to be out yet)
+	- [ ] Not out at this time
+- [ ] Come up with an overaching definition for what decolonising physics means
+- [ ] Look into how chemistry and biology have decolonised there curriculum 
+- [ ] Get a list of questions to look into within this topic and start to narrow down what this project means for me
+- [ ] Try get preliminary data of admissions to the physics department based off:
+	- Ethnicity
+	- Sexuality
+	- Gender identity (Specifically from non cisgender)
+	- disabillity (probably not going to happen due to ethics)
+- [x] Organise this vault to make sense to future me (probably difficult due to skitty brain) [THIS AINT HAPPENING]
+- [ ] Find the damn resource the york printed paper is talking about 
+- [ ] Decide on a preliminary set of questons to ask on the questionaire and give reasoning
+- [x] Use web of science to look up both the words "physics" and "decolonising" to see if there are any results other than that 1 really angry letter like paper
+- [ ] Look at the imperial stuff on 'geographic bias'
+	- I personally dont like this word as it loses some of the point of decolonisation
+- [ ] Look at the definitons for diversification and decolonsation
+	- These need to be distinct definitions as these are different (but linked) topics 
+- [ ] Look at how to present decolonisation to academics to not make them rage

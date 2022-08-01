@@ -1,0 +1,885 @@
+<?xml version="1.0"?>
+<root ptr="0x5637760fa010" id="106" symbol="11SwRootFrame" lower="107">
+ <sfxViewShells>
+  <SwView>
+   <SfxViewShell ptr="0x563778168600" id="1"/>
+   <SwCursorShell>
+    <SwViewShell/>
+    <m_pCurrentCursor>
+     <SwPaM>
+      <point>
+       <SwPosition nNode="9" nContent="0"/>
+      </point>
+     </SwPaM>
+    </m_pCurrentCursor>
+   </SwCursorShell>
+  </SwView>
+ </sfxViewShells>
+ <infos>
+  <bounds left="284" top="284" width="18836" height="48088" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+  <prtBounds left="0" top="0" width="18836" height="48088"/>
+ </infos>
+ <page ptr="0x563772eeb210" id="107" symbol="11SwPageFrame" next="135" upper="106" lower="108">
+  <page_status ValidFlyLayout="true" ValidFlyContent="true" ValidFlyInCnt="true" ValidLayout="true" ValidContent="true"/>
+  <infos>
+   <bounds left="6880" top="284" width="12240" height="15840" mbFixSize="true" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+   <prtBounds left="1440" top="1440" width="9360" height="12960"/>
+  </infos>
+  <body ptr="0x5637781f5f50" id="108" symbol="11SwBodyFrame" upper="107" lower="109">
+   <infos>
+    <bounds left="8320" top="1724" width="9360" height="12960" mbFixSize="true" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+    <prtBounds left="0" top="0" width="9360" height="12960"/>
+   </infos>
+   <txt ptr="0x5637783fc040" id="109" symbol="11SwTextFrame" next="110" upper="108" txtNodeIndex="9" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8320" top="1724" width="9360" height="253" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9360" height="253"/>
+    </infos>
+**Definitions for Decolonising**    <Text nLength="32" nType="PortionType::Para" nHeight="253" nWidth="3008" Portion="**Definitions for Decolonising**"/>
+    <LineBreak nWidth="3008" Line="**Definitions for Decolonising**"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x5637783c14b0" id="110" symbol="11SwTextFrame" next="111" prev="109" upper="108" txtNodeIndex="10" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8320" top="1977" width="9360" height="870" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="37" width="9360" height="833"/>
+    </infos>
+ - Decolonising education involves **examining the limitations and biases of the current curriculum; the omissions in initial teacher education and training; and examining the political and societal legacies of colonialism and how they have influenced education policies**     <Text nLength="89" nType="PortionType::Para" nHeight="253" nWidth="8511" Portion=" - Decolonising education involves **examining the limitations and biases of the current "/>
+    <LineBreak nWidth="8511" Line=" - Decolonising education involves **examining the limitations and biases of the current "/>
+    <Text nLength="97" nType="PortionType::Lay" nHeight="253" nWidth="9074" Portion="curriculum; the omissions in initial teacher education and training; and examining the political "/>
+    <LineBreak nWidth="9074" Line="curriculum; the omissions in initial teacher education and training; and examining the political "/>
+    <Text nLength="87" nType="PortionType::Lay" nHeight="253" nWidth="8450" Portion="and societal legacies of colonialism and how they have influenced education policies** "/>
+    <LineBreak nWidth="8450" Line="and societal legacies of colonialism and how they have influenced education policies** "/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x5637783bba50" id="111" symbol="11SwTextFrame" next="112" prev="110" upper="108" txtNodeIndex="11" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8320" top="2847" width="9360" height="290" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="37" width="9360" height="253"/>
+    </infos>
+   Link: https://neu.org.uk/advice/decolonising-education    <Text nLength="57" nType="PortionType::Para" nHeight="253" nWidth="5418" Portion="   Link: https://neu.org.uk/advice/decolonising-education"/>
+    <LineBreak nWidth="5418" Line="   Link: https://neu.org.uk/advice/decolonising-education"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x5637783bc8b0" id="112" symbol="11SwTextFrame" next="113" prev="111" upper="108" txtNodeIndex="12" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8320" top="3137" width="9360" height="290" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="37" width="9360" height="253"/>
+    </infos>
+       <Text nLength="3" nType="PortionType::Para" nHeight="253" nWidth="184" Portion="   "/>
+    <LineBreak nWidth="184" Line="   "/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x5637783b4a80" id="113" symbol="11SwTextFrame" next="114" prev="112" upper="108" txtNodeIndex="13" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8320" top="3427" width="9360" height="290" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="37" width="9360" height="253"/>
+    </infos>
+**Number of papers written on this**    <Text nLength="36" nType="PortionType::Para" nHeight="253" nWidth="3522" Portion="**Number of papers written on this**"/>
+    <LineBreak nWidth="3522" Line="**Number of papers written on this**"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x5637782261a0" id="114" symbol="11SwTextFrame" next="115" prev="113" upper="108" txtNodeIndex="14" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8320" top="3717" width="9360" height="1450" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="37" width="9360" height="1413"/>
+    </infos>
+*- After looking up on WOS the terms &quot;physics&quot; and &quot;decol&quot; only 4 results were found, with one of these results being what i can only describe as an extremely angry letter, another one being a conversation about decolonization of thought as such is not of relevance when looking at the specific lense of physics, and 2 being from previously colonized countries (Brazil and Zimbabwe).     <Text nLength="1" nType="PortionType::TabLeft" nHeight="253" nWidth="720" Portion="*"/>
+    <Text nLength="85" nType="PortionType::Text" nHeight="253" nWidth="8286" Portion="- After looking up on WOS the terms &quot;physics&quot; and &quot;decol&quot; only 4 results were found, "/>
+    <LineBreak nWidth="9006" Line="*- After looking up on WOS the terms &quot;physics&quot; and &quot;decol&quot; only 4 results were found, "/>
+    <Text nLength="95" nType="PortionType::Lay" nHeight="253" nWidth="9087" Portion="with one of these results being what i can only describe as an extremely angry letter, another "/>
+    <LineBreak nWidth="9087" Line="with one of these results being what i can only describe as an extremely angry letter, another "/>
+    <Text nLength="90" nType="PortionType::Lay" nHeight="253" nWidth="8892" Portion="one being a conversation about decolonization of thought as such is not of relevance when "/>
+    <LineBreak nWidth="8892" Line="one being a conversation about decolonization of thought as such is not of relevance when "/>
+    <Text nLength="98" nType="PortionType::Lay" nHeight="253" nWidth="9245" Portion="looking at the specific lense of physics, and 2 being from previously colonized countries (Brazil "/>
+    <LineBreak nWidth="9245" Line="looking at the specific lense of physics, and 2 being from previously colonized countries (Brazil "/>
+    <Text nLength="15" nType="PortionType::Lay" nHeight="253" nWidth="1639" Portion="and Zimbabwe). "/>
+    <LineBreak nWidth="1639" Line="and Zimbabwe). "/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x5637730d4960" id="115" symbol="11SwTextFrame" next="116" prev="114" upper="108" txtNodeIndex="15" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8320" top="5167" width="9360" height="290" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="37" width="9360" height="253"/>
+    </infos>
+*  All results found were from between 2016-2021(early access paper).    <Text nLength="1" nType="PortionType::TabLeft" nHeight="253" nWidth="720" Portion="*"/>
+    <Text nLength="68" nType="PortionType::Text" nHeight="253" nWidth="6787" Portion="  All results found were from between 2016-2021(early access paper)."/>
+    <LineBreak nWidth="7507" Line="*  All results found were from between 2016-2021(early access paper)."/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x5637783f85b0" id="116" symbol="11SwTextFrame" next="117" prev="115" upper="108" txtNodeIndex="16" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8320" top="5457" width="9360" height="290" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="37" width="9360" height="253"/>
+    </infos>
+*  This shows that either the ideas of decolonising physics:    <Text nLength="1" nType="PortionType::TabLeft" nHeight="253" nWidth="720" Portion="*"/>
+    <Text nLength="59" nType="PortionType::Text" nHeight="253" nWidth="5601" Portion="  This shows that either the ideas of decolonising physics:"/>
+    <LineBreak nWidth="6321" Line="*  This shows that either the ideas of decolonising physics:"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x56377317acc0" id="117" symbol="11SwTextFrame" next="118" prev="116" upper="108" txtNodeIndex="17" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8320" top="5747" width="9360" height="290" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="37" width="9360" height="253"/>
+    </infos>
+**- Are not being talked about on a research level    <Text nLength="1" nType="PortionType::TabLeft" nHeight="253" nWidth="720" Portion="*"/>
+    <Text nLength="1" nType="PortionType::TabLeft" nHeight="253" nWidth="720" Portion="*"/>
+    <Text nLength="48" nType="PortionType::Text" nHeight="253" nWidth="4623" Portion="- Are not being talked about on a research level"/>
+    <LineBreak nWidth="6063" Line="**- Are not being talked about on a research level"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x563778250800" id="118" symbol="11SwTextFrame" next="119" prev="117" upper="108" txtNodeIndex="18" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8320" top="6037" width="9360" height="580" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="37" width="9360" height="543"/>
+    </infos>
+**- There is some bias when publishing these papers, where they are not being published by the global norths publishing journals    <Text nLength="1" nType="PortionType::TabLeft" nHeight="253" nWidth="720" Portion="*"/>
+    <Text nLength="1" nType="PortionType::TabLeft" nHeight="253" nWidth="720" Portion="*"/>
+    <Text nLength="76" nType="PortionType::Text" nHeight="253" nWidth="7570" Portion="- There is some bias when publishing these papers, where they are not being "/>
+    <LineBreak nWidth="9010" Line="**- There is some bias when publishing these papers, where they are not being "/>
+    <Text nLength="50" nType="PortionType::Lay" nHeight="253" nWidth="4806" Portion="published by the global norths publishing journals"/>
+    <LineBreak nWidth="4806" Line="published by the global norths publishing journals"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x5637784266e0" id="119" symbol="11SwTextFrame" next="120" prev="118" upper="108" txtNodeIndex="19" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8320" top="6617" width="9360" height="290" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="37" width="9360" height="253"/>
+    </infos>
+**- WOS currently does not have any records of these papers    <Text nLength="1" nType="PortionType::TabLeft" nHeight="253" nWidth="720" Portion="*"/>
+    <Text nLength="1" nType="PortionType::TabLeft" nHeight="253" nWidth="720" Portion="*"/>
+    <Text nLength="57" nType="PortionType::Text" nHeight="253" nWidth="5797" Portion="- WOS currently does not have any records of these papers"/>
+    <LineBreak nWidth="7237" Line="**- WOS currently does not have any records of these papers"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x56377840c530" id="120" symbol="11SwTextFrame" next="121" prev="119" upper="108" txtNodeIndex="20" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8320" top="6907" width="9360" height="580" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="37" width="9360" height="543"/>
+    </infos>
+*  Whilst there are really the 3 options above for why there was only 2-3 &quot;appraochable&quot;(find a better word) papers they all lead to the same conclusion:    <Text nLength="1" nType="PortionType::TabLeft" nHeight="253" nWidth="720" Portion="*"/>
+    <Text nLength="73" nType="PortionType::Text" nHeight="253" nWidth="6922" Portion="  Whilst there are really the 3 options above for why there was only 2-3 "/>
+    <LineBreak nWidth="7642" Line="*  Whilst there are really the 3 options above for why there was only 2-3 "/>
+    <Text nLength="79" nType="PortionType::Lay" nHeight="253" nWidth="7678" Portion="&quot;appraochable&quot;(find a better word) papers they all lead to the same conclusion:"/>
+    <LineBreak nWidth="7678" Line="&quot;appraochable&quot;(find a better word) papers they all lead to the same conclusion:"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x563778419db0" id="121" symbol="11SwTextFrame" next="122" prev="120" upper="108" txtNodeIndex="21" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8320" top="7487" width="9360" height="870" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="37" width="9360" height="833"/>
+    </infos>
+*  That the ideas of decolonisation in physics needs to be a more wide spread topic and talked about more within academic circles contained within the global north especially at the research level. Along with this it shows how recent these ideas have entered physics circles.    <Text nLength="1" nType="PortionType::TabLeft" nHeight="253" nWidth="720" Portion="*"/>
+    <Text nLength="87" nType="PortionType::Text" nHeight="253" nWidth="8475" Portion="  That the ideas of decolonisation in physics needs to be a more wide spread topic and "/>
+    <LineBreak nWidth="9195" Line="*  That the ideas of decolonisation in physics needs to be a more wide spread topic and "/>
+    <Text nLength="94" nType="PortionType::Lay" nHeight="253" nWidth="8988" Portion="talked about more within academic circles contained within the global north especially at the "/>
+    <LineBreak nWidth="8988" Line="talked about more within academic circles contained within the global north especially at the "/>
+    <Text nLength="93" nType="PortionType::Lay" nHeight="253" nWidth="8976" Portion="research level. Along with this it shows how recent these ideas have entered physics circles."/>
+    <LineBreak nWidth="8976" Line="research level. Along with this it shows how recent these ideas have entered physics circles."/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x563778416f30" id="122" symbol="11SwTextFrame" next="123" prev="121" upper="108" txtNodeIndex="22" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8320" top="8357" width="9360" height="870" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="37" width="9360" height="833"/>
+    </infos>
+*- Looking up the similar terms in google scholar gives another 4 results two of which are the same (angry letter and the Zimbabwe paper) the other 2 were from the global north with 1 not looking like a strictly decolonizing physics paper ( canada and the US )    <Text nLength="1" nType="PortionType::TabLeft" nHeight="253" nWidth="720" Portion="*"/>
+    <Text nLength="90" nType="PortionType::Text" nHeight="253" nWidth="8597" Portion="- Looking up the similar terms in google scholar gives another 4 results two of which are "/>
+    <LineBreak nWidth="9317" Line="*- Looking up the similar terms in google scholar gives another 4 results two of which are "/>
+    <Text nLength="93" nType="PortionType::Lay" nHeight="253" nWidth="9136" Portion="the same (angry letter and the Zimbabwe paper) the other 2 were from the global north with 1 "/>
+    <LineBreak nWidth="9136" Line="the same (angry letter and the Zimbabwe paper) the other 2 were from the global north with 1 "/>
+    <Text nLength="76" nType="PortionType::Lay" nHeight="253" nWidth="7239" Portion="not looking like a strictly decolonizing physics paper ( canada and the US )"/>
+    <LineBreak nWidth="7239" Line="not looking like a strictly decolonizing physics paper ( canada and the US )"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x563778401590" id="123" symbol="11SwTextFrame" next="124" prev="122" upper="108" txtNodeIndex="23" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8320" top="9227" width="9360" height="290" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="37" width="9360" height="253"/>
+    </infos>
+*- **List of papers found**    <Text nLength="1" nType="PortionType::TabLeft" nHeight="253" nWidth="720" Portion="*"/>
+    <Text nLength="26" nType="PortionType::Text" nHeight="253" nWidth="2410" Portion="- **List of papers found**"/>
+    <LineBreak nWidth="3130" Line="*- **List of papers found**"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x563775e08800" id="124" symbol="11SwTextFrame" next="125" prev="123" upper="108" txtNodeIndex="24" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8320" top="9517" width="9360" height="290" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="37" width="9360" height="253"/>
+    </infos>
+**- Decolonizing  Physics: Learning from the Periphery,     <Text nLength="1" nType="PortionType::TabLeft" nHeight="253" nWidth="720" Portion="*"/>
+    <Text nLength="1" nType="PortionType::TabLeft" nHeight="253" nWidth="720" Portion="*"/>
+    <Text nLength="54" nType="PortionType::Text" nHeight="253" nWidth="5246" Portion="- Decolonizing  Physics: Learning from the Periphery, "/>
+    <LineBreak nWidth="6686" Line="**- Decolonizing  Physics: Learning from the Periphery, "/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x563778296540" id="125" symbol="11SwTextFrame" next="126" prev="124" upper="108" txtNodeIndex="25" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8320" top="9807" width="9360" height="580" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="37" width="9360" height="543"/>
+    </infos>
+***- URL: https://www.webofscience.com/wos/woscc/full-record/WOS:000475566000001    <Text nLength="1" nType="PortionType::TabLeft" nHeight="253" nWidth="720" Portion="*"/>
+    <Text nLength="1" nType="PortionType::TabLeft" nHeight="253" nWidth="720" Portion="*"/>
+    <Text nLength="1" nType="PortionType::TabLeft" nHeight="253" nWidth="720" Portion="*"/>
+    <Text nLength="7" nType="PortionType::Text" nHeight="253" nWidth="697" Portion="- URL: "/>
+    <LineBreak nWidth="2857" Line="***- URL: "/>
+    <Text nLength="70" nType="PortionType::Lay" nHeight="253" nWidth="7655" Portion="https://www.webofscience.com/wos/woscc/full-record/WOS:000475566000001"/>
+    <LineBreak nWidth="7655" Line="https://www.webofscience.com/wos/woscc/full-record/WOS:000475566000001"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x5637730d4830" id="126" symbol="11SwTextFrame" next="127" prev="125" upper="108" txtNodeIndex="26" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8320" top="10387" width="9360" height="290" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="37" width="9360" height="253"/>
+    </infos>
+***- Databases: WOS, Google Scholar    <Text nLength="1" nType="PortionType::TabLeft" nHeight="253" nWidth="720" Portion="*"/>
+    <Text nLength="1" nType="PortionType::TabLeft" nHeight="253" nWidth="720" Portion="*"/>
+    <Text nLength="1" nType="PortionType::TabLeft" nHeight="253" nWidth="720" Portion="*"/>
+    <Text nLength="32" nType="PortionType::Text" nHeight="253" nWidth="3473" Portion="- Databases: WOS, Google Scholar"/>
+    <LineBreak nWidth="5633" Line="***- Databases: WOS, Google Scholar"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x563778299040" id="127" symbol="11SwTextFrame" next="128" prev="126" upper="108" txtNodeIndex="27" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8320" top="10677" width="9360" height="580" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="37" width="9360" height="543"/>
+    </infos>
+***- Essentially an angry letter to physics felt abit weird, From the global north    <Text nLength="1" nType="PortionType::TabLeft" nHeight="253" nWidth="720" Portion="*"/>
+    <Text nLength="1" nType="PortionType::TabLeft" nHeight="253" nWidth="720" Portion="*"/>
+    <Text nLength="1" nType="PortionType::TabLeft" nHeight="253" nWidth="720" Portion="*"/>
+    <Text nLength="74" nType="PortionType::Text" nHeight="253" nWidth="6762" Portion="- Essentially an angry letter to physics felt abit weird, From the global "/>
+    <LineBreak nWidth="8922" Line="***- Essentially an angry letter to physics felt abit weird, From the global "/>
+    <Text nLength="5" nType="PortionType::Lay" nHeight="253" nWidth="502" Portion="north"/>
+    <LineBreak nWidth="502" Line="north"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x563772ec28d0" id="128" symbol="11SwTextFrame" next="129" prev="127" upper="108" txtNodeIndex="28" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8320" top="11257" width="9360" height="580" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="37" width="9360" height="543"/>
+    </infos>
+**- Decolonizing  school  physics  through an indigenous artifact mediated pedagogy    <Text nLength="1" nType="PortionType::TabLeft" nHeight="253" nWidth="720" Portion="*"/>
+    <Text nLength="1" nType="PortionType::TabLeft" nHeight="253" nWidth="720" Portion="*"/>
+    <Text nLength="73" nType="PortionType::Text" nHeight="253" nWidth="7056" Portion="- Decolonizing  school  physics  through an indigenous artifact mediated "/>
+    <LineBreak nWidth="8496" Line="**- Decolonizing  school  physics  through an indigenous artifact mediated "/>
+    <Text nLength="8" nType="PortionType::Lay" nHeight="253" nWidth="966" Portion="pedagogy"/>
+    <LineBreak nWidth="966" Line="pedagogy"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x563778213930" id="129" symbol="11SwTextFrame" next="130" prev="128" upper="108" txtNodeIndex="29" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8320" top="11837" width="9360" height="580" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="37" width="9360" height="543"/>
+    </infos>
+***- URL: https://www.webofscience.com/wos/woscc/full-record/WOS:000722979300002    <Text nLength="1" nType="PortionType::TabLeft" nHeight="253" nWidth="720" Portion="*"/>
+    <Text nLength="1" nType="PortionType::TabLeft" nHeight="253" nWidth="720" Portion="*"/>
+    <Text nLength="1" nType="PortionType::TabLeft" nHeight="253" nWidth="720" Portion="*"/>
+    <Text nLength="7" nType="PortionType::Text" nHeight="253" nWidth="697" Portion="- URL: "/>
+    <LineBreak nWidth="2857" Line="***- URL: "/>
+    <Text nLength="70" nType="PortionType::Lay" nHeight="253" nWidth="7655" Portion="https://www.webofscience.com/wos/woscc/full-record/WOS:000722979300002"/>
+    <LineBreak nWidth="7655" Line="https://www.webofscience.com/wos/woscc/full-record/WOS:000722979300002"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x5637730d46c0" id="130" symbol="11SwTextFrame" next="131" prev="129" upper="108" txtNodeIndex="30" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8320" top="12417" width="9360" height="290" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="37" width="9360" height="253"/>
+    </infos>
+***- Databases: WOS, Google Scholar    <Text nLength="1" nType="PortionType::TabLeft" nHeight="253" nWidth="720" Portion="*"/>
+    <Text nLength="1" nType="PortionType::TabLeft" nHeight="253" nWidth="720" Portion="*"/>
+    <Text nLength="1" nType="PortionType::TabLeft" nHeight="253" nWidth="720" Portion="*"/>
+    <Text nLength="32" nType="PortionType::Text" nHeight="253" nWidth="3473" Portion="- Databases: WOS, Google Scholar"/>
+    <LineBreak nWidth="5633" Line="***- Databases: WOS, Google Scholar"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x5637730d0e20" id="131" symbol="11SwTextFrame" next="132" prev="130" upper="108" txtNodeIndex="31" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8320" top="12707" width="9360" height="290" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="37" width="9360" height="253"/>
+    </infos>
+***- From the global south    <Text nLength="1" nType="PortionType::TabLeft" nHeight="253" nWidth="720" Portion="*"/>
+    <Text nLength="1" nType="PortionType::TabLeft" nHeight="253" nWidth="720" Portion="*"/>
+    <Text nLength="1" nType="PortionType::TabLeft" nHeight="253" nWidth="720" Portion="*"/>
+    <Text nLength="23" nType="PortionType::Text" nHeight="253" nWidth="2262" Portion="- From the global south"/>
+    <LineBreak nWidth="4422" Line="***- From the global south"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x563778429000" id="132" symbol="11SwTextFrame" next="133" prev="131" upper="108" txtNodeIndex="32" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8320" top="12997" width="9360" height="580" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="37" width="9360" height="543"/>
+    </infos>
+**- The  Physics  Teaching at the Rural Education:  decolonizer, toolize and participative    <Text nLength="1" nType="PortionType::TabLeft" nHeight="253" nWidth="720" Portion="*"/>
+    <Text nLength="1" nType="PortionType::TabLeft" nHeight="253" nWidth="720" Portion="*"/>
+    <Text nLength="75" nType="PortionType::Text" nHeight="253" nWidth="7215" Portion="- The  Physics  Teaching at the Rural Education:  decolonizer, toolize and "/>
+    <LineBreak nWidth="8655" Line="**- The  Physics  Teaching at the Rural Education:  decolonizer, toolize and "/>
+    <Text nLength="13" nType="PortionType::Lay" nHeight="253" nWidth="1174" Portion="participative"/>
+    <LineBreak nWidth="1174" Line="participative"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x5637782694f0" id="133" symbol="11SwTextFrame" next="134" prev="132" upper="108" txtNodeIndex="33" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8320" top="13577" width="9360" height="580" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="37" width="9360" height="543"/>
+    </infos>
+***- URL: https://www.webofscience.com/wos/woscc/full-record/WOS:000444376700009    <Text nLength="1" nType="PortionType::TabLeft" nHeight="253" nWidth="720" Portion="*"/>
+    <Text nLength="1" nType="PortionType::TabLeft" nHeight="253" nWidth="720" Portion="*"/>
+    <Text nLength="1" nType="PortionType::TabLeft" nHeight="253" nWidth="720" Portion="*"/>
+    <Text nLength="7" nType="PortionType::Text" nHeight="253" nWidth="697" Portion="- URL: "/>
+    <LineBreak nWidth="2857" Line="***- URL: "/>
+    <Text nLength="70" nType="PortionType::Lay" nHeight="253" nWidth="7655" Portion="https://www.webofscience.com/wos/woscc/full-record/WOS:000444376700009"/>
+    <LineBreak nWidth="7655" Line="https://www.webofscience.com/wos/woscc/full-record/WOS:000444376700009"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x563778298950" id="134" symbol="11SwTextFrame" prev="133" upper="108" txtNodeIndex="34" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8320" top="14157" width="9360" height="290" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="37" width="9360" height="253"/>
+    </infos>
+***- Databases: WOS,     <Text nLength="1" nType="PortionType::TabLeft" nHeight="253" nWidth="720" Portion="*"/>
+    <Text nLength="1" nType="PortionType::TabLeft" nHeight="253" nWidth="720" Portion="*"/>
+    <Text nLength="1" nType="PortionType::TabLeft" nHeight="253" nWidth="720" Portion="*"/>
+    <Text nLength="18" nType="PortionType::Text" nHeight="253" nWidth="1956" Portion="- Databases: WOS, "/>
+    <LineBreak nWidth="4116" Line="***- Databases: WOS, "/>
+    <Finish/>
+   </txt>
+  </body>
+ </page>
+ <page ptr="0x563778224cf0" id="135" symbol="11SwPageFrame" next="163" prev="107" upper="106" lower="136">
+  <page_status ValidFlyLayout="true" ValidFlyContent="true" ValidFlyInCnt="true" ValidLayout="true" ValidContent="true"/>
+  <infos>
+   <bounds left="6880" top="16408" width="12240" height="15840" mbFixSize="true" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+   <prtBounds left="1440" top="1440" width="9360" height="12960"/>
+  </infos>
+  <body ptr="0x563778227b60" id="136" symbol="11SwBodyFrame" upper="135" lower="137">
+   <infos>
+    <bounds left="8320" top="17848" width="9360" height="12960" mbFixSize="true" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+    <prtBounds left="0" top="0" width="9360" height="12960"/>
+   </infos>
+   <txt ptr="0x56377841d4e0" id="137" symbol="11SwTextFrame" next="138" upper="136" txtNodeIndex="35" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8320" top="17848" width="9360" height="253" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9360" height="253"/>
+    </infos>
+***- From the global south    <Text nLength="1" nType="PortionType::TabLeft" nHeight="253" nWidth="720" Portion="*"/>
+    <Text nLength="1" nType="PortionType::TabLeft" nHeight="253" nWidth="720" Portion="*"/>
+    <Text nLength="1" nType="PortionType::TabLeft" nHeight="253" nWidth="720" Portion="*"/>
+    <Text nLength="23" nType="PortionType::Text" nHeight="253" nWidth="2262" Portion="- From the global south"/>
+    <LineBreak nWidth="4422" Line="***- From the global south"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x563772ddb000" id="138" symbol="11SwTextFrame" next="139" prev="137" upper="136" txtNodeIndex="36" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8320" top="18101" width="9360" height="290" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="37" width="9360" height="253"/>
+    </infos>
+**- Decolonizing Thought: What Physics has to do with that?    <Text nLength="1" nType="PortionType::TabLeft" nHeight="253" nWidth="720" Portion="*"/>
+    <Text nLength="1" nType="PortionType::TabLeft" nHeight="253" nWidth="720" Portion="*"/>
+    <Text nLength="57" nType="PortionType::Text" nHeight="253" nWidth="5686" Portion="- Decolonizing Thought: What Physics has to do with that?"/>
+    <LineBreak nWidth="7126" Line="**- Decolonizing Thought: What Physics has to do with that?"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x563778220a10" id="139" symbol="11SwTextFrame" next="140" prev="138" upper="136" txtNodeIndex="37" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8320" top="18391" width="9360" height="290" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="37" width="9360" height="253"/>
+    </infos>
+***- URL: https://meetings.aps.org/Meeting/APR20/Session/L07.3    <Text nLength="1" nType="PortionType::TabLeft" nHeight="253" nWidth="720" Portion="*"/>
+    <Text nLength="1" nType="PortionType::TabLeft" nHeight="253" nWidth="720" Portion="*"/>
+    <Text nLength="1" nType="PortionType::TabLeft" nHeight="253" nWidth="720" Portion="*"/>
+    <Text nLength="59" nType="PortionType::Text" nHeight="253" nWidth="6102" Portion="- URL: https://meetings.aps.org/Meeting/APR20/Session/L07.3"/>
+    <LineBreak nWidth="8262" Line="***- URL: https://meetings.aps.org/Meeting/APR20/Session/L07.3"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x563772e4f640" id="140" symbol="11SwTextFrame" next="141" prev="139" upper="136" txtNodeIndex="38" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8320" top="18681" width="9360" height="290" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="37" width="9360" height="253"/>
+    </infos>
+***- Not an article, its a presentation so is uncitable    <Text nLength="1" nType="PortionType::TabLeft" nHeight="253" nWidth="720" Portion="*"/>
+    <Text nLength="1" nType="PortionType::TabLeft" nHeight="253" nWidth="720" Portion="*"/>
+    <Text nLength="1" nType="PortionType::TabLeft" nHeight="253" nWidth="720" Portion="*"/>
+    <Text nLength="52" nType="PortionType::Text" nHeight="253" nWidth="4684" Portion="- Not an article, its a presentation so is uncitable"/>
+    <LineBreak nWidth="6844" Line="***- Not an article, its a presentation so is uncitable"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x56377821b980" id="141" symbol="11SwTextFrame" next="142" prev="140" upper="136" txtNodeIndex="39" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8320" top="18971" width="9360" height="290" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="37" width="9360" height="253"/>
+    </infos>
+***- Global North    <Text nLength="1" nType="PortionType::TabLeft" nHeight="253" nWidth="720" Portion="*"/>
+    <Text nLength="1" nType="PortionType::TabLeft" nHeight="253" nWidth="720" Portion="*"/>
+    <Text nLength="1" nType="PortionType::TabLeft" nHeight="253" nWidth="720" Portion="*"/>
+    <Text nLength="14" nType="PortionType::Text" nHeight="253" nWidth="1370" Portion="- Global North"/>
+    <LineBreak nWidth="3530" Line="***- Global North"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x563778404320" id="142" symbol="11SwTextFrame" next="143" prev="141" upper="136" txtNodeIndex="40" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8320" top="19261" width="9360" height="290" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="37" width="9360" height="253"/>
+    </infos>
+***- Databases: Google Scholar    <Text nLength="1" nType="PortionType::TabLeft" nHeight="253" nWidth="720" Portion="*"/>
+    <Text nLength="1" nType="PortionType::TabLeft" nHeight="253" nWidth="720" Portion="*"/>
+    <Text nLength="1" nType="PortionType::TabLeft" nHeight="253" nWidth="720" Portion="*"/>
+    <Text nLength="27" nType="PortionType::Text" nHeight="253" nWidth="2825" Portion="- Databases: Google Scholar"/>
+    <LineBreak nWidth="4985" Line="***- Databases: Google Scholar"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x56377842d2f0" id="143" symbol="11SwTextFrame" next="144" prev="142" upper="136" txtNodeIndex="41" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8320" top="19551" width="9360" height="290" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="37" width="9360" height="253"/>
+    </infos>
+**- Decolonizing Light: A Project Exploring Ways to Decolonize Physics    <Text nLength="1" nType="PortionType::TabLeft" nHeight="253" nWidth="720" Portion="*"/>
+    <Text nLength="1" nType="PortionType::TabLeft" nHeight="253" nWidth="720" Portion="*"/>
+    <Text nLength="68" nType="PortionType::Text" nHeight="253" nWidth="6749" Portion="- Decolonizing Light: A Project Exploring Ways to Decolonize Physics"/>
+    <LineBreak nWidth="8189" Line="**- Decolonizing Light: A Project Exploring Ways to Decolonize Physics"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x56377842a740" id="144" symbol="11SwTextFrame" next="145" prev="143" upper="136" txtNodeIndex="42" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8320" top="19841" width="9360" height="580" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="37" width="9360" height="543"/>
+    </infos>
+***- URL: https://pic-pac.cap.ca/index.php/Issues/showpdf/article/v77n1.0-a4130.pdf    <Text nLength="1" nType="PortionType::TabLeft" nHeight="253" nWidth="720" Portion="*"/>
+    <Text nLength="1" nType="PortionType::TabLeft" nHeight="253" nWidth="720" Portion="*"/>
+    <Text nLength="1" nType="PortionType::TabLeft" nHeight="253" nWidth="720" Portion="*"/>
+    <Text nLength="71" nType="PortionType::Text" nHeight="253" nWidth="6934" Portion="- URL: https://pic-pac.cap.ca/index.php/Issues/showpdf/article/v77n1.0-"/>
+    <LineBreak nWidth="9094" Line="***- URL: https://pic-pac.cap.ca/index.php/Issues/showpdf/article/v77n1.0-"/>
+    <Text nLength="9" nType="PortionType::Lay" nHeight="253" nWidth="979" Portion="a4130.pdf"/>
+    <LineBreak nWidth="979" Line="a4130.pdf"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x5637783ce6c0" id="145" symbol="11SwTextFrame" next="146" prev="144" upper="136" txtNodeIndex="43" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8320" top="20421" width="9360" height="290" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="37" width="9360" height="253"/>
+    </infos>
+***- Seems like a solid article will need to give a read    <Text nLength="1" nType="PortionType::TabLeft" nHeight="253" nWidth="720" Portion="*"/>
+    <Text nLength="1" nType="PortionType::TabLeft" nHeight="253" nWidth="720" Portion="*"/>
+    <Text nLength="1" nType="PortionType::TabLeft" nHeight="253" nWidth="720" Portion="*"/>
+    <Text nLength="53" nType="PortionType::Text" nHeight="253" nWidth="4867" Portion="- Seems like a solid article will need to give a read"/>
+    <LineBreak nWidth="7027" Line="***- Seems like a solid article will need to give a read"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x56377821a660" id="146" symbol="11SwTextFrame" next="147" prev="145" upper="136" txtNodeIndex="44" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8320" top="20711" width="9360" height="290" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="37" width="9360" height="253"/>
+    </infos>
+***- Global North    <Text nLength="1" nType="PortionType::TabLeft" nHeight="253" nWidth="720" Portion="*"/>
+    <Text nLength="1" nType="PortionType::TabLeft" nHeight="253" nWidth="720" Portion="*"/>
+    <Text nLength="1" nType="PortionType::TabLeft" nHeight="253" nWidth="720" Portion="*"/>
+    <Text nLength="14" nType="PortionType::Text" nHeight="253" nWidth="1370" Portion="- Global North"/>
+    <LineBreak nWidth="3530" Line="***- Global North"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x56377840f3b0" id="147" symbol="11SwTextFrame" next="148" prev="146" upper="136" txtNodeIndex="45" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8320" top="21001" width="9360" height="290" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="37" width="9360" height="253"/>
+    </infos>
+***- Databases: Google Scholar    <Text nLength="1" nType="PortionType::TabLeft" nHeight="253" nWidth="720" Portion="*"/>
+    <Text nLength="1" nType="PortionType::TabLeft" nHeight="253" nWidth="720" Portion="*"/>
+    <Text nLength="1" nType="PortionType::TabLeft" nHeight="253" nWidth="720" Portion="*"/>
+    <Text nLength="27" nType="PortionType::Text" nHeight="253" nWidth="2825" Portion="- Databases: Google Scholar"/>
+    <LineBreak nWidth="4985" Line="***- Databases: Google Scholar"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x5637730cfca0" id="148" symbol="11SwTextFrame" next="149" prev="147" upper="136" txtNodeIndex="46" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8320" top="21291" width="9360" height="290" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="37" width="9360" height="253"/>
+    </infos>
+***    <Text nLength="1" nType="PortionType::TabLeft" nHeight="253" nWidth="720" Portion="*"/>
+    <Text nLength="1" nType="PortionType::TabLeft" nHeight="253" nWidth="720" Portion="*"/>
+    <Text nLength="1" nType="PortionType::TabLeft" nHeight="253" nWidth="720" Portion="*"/>
+    <LineBreak nWidth="2160" Line="***"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x563777381f30" id="149" symbol="11SwTextFrame" next="150" prev="148" upper="136" txtNodeIndex="47" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8320" top="21581" width="9360" height="290" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="37" width="9360" height="253"/>
+    </infos>
+**Decolonisation of Physics&quot;Hard&quot; definition**    <Text nLength="46" nType="PortionType::Para" nHeight="253" nWidth="4424" Portion="**Decolonisation of Physics&quot;Hard&quot; definition**"/>
+    <LineBreak nWidth="4424" Line="**Decolonisation of Physics&quot;Hard&quot; definition**"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x56377821d330" id="150" symbol="11SwTextFrame" next="151" prev="149" upper="136" txtNodeIndex="48" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8320" top="21871" width="9360" height="290" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="37" width="9360" height="253"/>
+    </infos>
+ - What is decolonisation in general    <Text nLength="36" nType="PortionType::Para" nHeight="253" nWidth="3424" Portion=" - What is decolonisation in general"/>
+    <LineBreak nWidth="3424" Line=" - What is decolonisation in general"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x56377821d9e0" id="151" symbol="11SwTextFrame" next="152" prev="150" upper="136" txtNodeIndex="49" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8320" top="22161" width="9360" height="580" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="37" width="9360" height="543"/>
+    </infos>
+* - Decolonisation is the practice of the identification and dismantlement of colonial systems and the structures the set     <Text nLength="1" nType="PortionType::TabLeft" nHeight="253" nWidth="720" Portion="*"/>
+    <Text nLength="86" nType="PortionType::Text" nHeight="253" nWidth="7986" Portion=" - Decolonisation is the practice of the identification and dismantlement of colonial "/>
+    <LineBreak nWidth="8706" Line="* - Decolonisation is the practice of the identification and dismantlement of colonial "/>
+    <Text nLength="35" nType="PortionType::Lay" nHeight="253" nWidth="3412" Portion="systems and the structures the set "/>
+    <LineBreak nWidth="3412" Line="systems and the structures the set "/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x563778412210" id="152" symbol="11SwTextFrame" next="153" prev="151" upper="136" txtNodeIndex="50" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8320" top="22741" width="9360" height="580" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="37" width="9360" height="543"/>
+    </infos>
+*    within a specific area. The practice of decolonisation should work to redistribute any colonial power structures to allow     <Text nLength="1" nType="PortionType::TabLeft" nHeight="253" nWidth="720" Portion="*"/>
+    <Text nLength="91" nType="PortionType::Text" nHeight="253" nWidth="8438" Portion="    within a specific area. The practice of decolonisation should work to redistribute any "/>
+    <LineBreak nWidth="9158" Line="*    within a specific area. The practice of decolonisation should work to redistribute any "/>
+    <Text nLength="35" nType="PortionType::Lay" nHeight="253" nWidth="3302" Portion="colonial power structures to allow "/>
+    <LineBreak nWidth="3302" Line="colonial power structures to allow "/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x5637730d15c0" id="153" symbol="11SwTextFrame" next="154" prev="152" upper="136" txtNodeIndex="51" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8320" top="23321" width="9360" height="580" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="37" width="9360" height="543"/>
+    </infos>
+*    for a more truthful representation  of  a specific study area as well as a more (idk the words for this rn but essentially   *      <Text nLength="1" nType="PortionType::TabLeft" nHeight="253" nWidth="720" Portion="*"/>
+    <Text nLength="93" nType="PortionType::Text" nHeight="253" nWidth="8500" Portion="    for a more truthful representation  of  a specific study area as well as a more (idk the "/>
+    <LineBreak nWidth="9220" Line="*    for a more truthful representation  of  a specific study area as well as a more (idk the "/>
+    <Text nLength="36" nType="PortionType::Text" nHeight="253" nWidth="3204" Portion="words for this rn but essentially   "/>
+    <Text nLength="1" nType="PortionType::TabLeft" nHeight="253" nWidth="396" Portion="*"/>
+    <Text nLength="2" nType="PortionType::Text" nHeight="253" nWidth="122" Portion="  "/>
+    <LineBreak nWidth="3722" Line="words for this rn but essentially   *  "/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x5637781f5640" id="154" symbol="11SwTextFrame" next="155" prev="153" upper="136" txtNodeIndex="52" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8320" top="23901" width="9360" height="580" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="37" width="9360" height="543"/>
+    </infos>
+*    allowing people to see themselves and the cultural heritage within a study area). Whilst increased inclusion and diversity     <Text nLength="1" nType="PortionType::TabLeft" nHeight="253" nWidth="720" Portion="*"/>
+    <Text nLength="86" nType="PortionType::Text" nHeight="253" nWidth="8108" Portion="    allowing people to see themselves and the cultural heritage within a study area). "/>
+    <LineBreak nWidth="8828" Line="*    allowing people to see themselves and the cultural heritage within a study area). "/>
+    <Text nLength="41" nType="PortionType::Lay" nHeight="253" nWidth="3888" Portion="Whilst increased inclusion and diversity "/>
+    <LineBreak nWidth="3888" Line="Whilst increased inclusion and diversity "/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x5637781f5810" id="155" symbol="11SwTextFrame" next="156" prev="154" upper="136" txtNodeIndex="53" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8320" top="24481" width="9360" height="580" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="37" width="9360" height="543"/>
+    </infos>
+*    should be a consequence of decolonisation it should not be its primary focus this is due to having EDI as its primary its     <Text nLength="1" nType="PortionType::TabLeft" nHeight="253" nWidth="720" Portion="*"/>
+    <Text nLength="89" nType="PortionType::Text" nHeight="253" nWidth="8365" Portion="    should be a consequence of decolonisation it should not be its primary focus this is "/>
+    <LineBreak nWidth="9085" Line="*    should be a consequence of decolonisation it should not be its primary focus this is "/>
+    <Text nLength="37" nType="PortionType::Lay" nHeight="253" nWidth="3461" Portion="due to having EDI as its primary its "/>
+    <LineBreak nWidth="3461" Line="due to having EDI as its primary its "/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x563778298e70" id="156" symbol="11SwTextFrame" next="157" prev="155" upper="136" txtNodeIndex="54" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8320" top="25061" width="9360" height="580" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="37" width="9360" height="543"/>
+    </infos>
+*    primary focus would cause a rise in tokenism within any circle it is applied (read this sentence and make sure it makes     <Text nLength="1" nType="PortionType::TabLeft" nHeight="253" nWidth="720" Portion="*"/>
+    <Text nLength="92" nType="PortionType::Text" nHeight="253" nWidth="8437" Portion="    primary focus would cause a rise in tokenism within any circle it is applied (read this "/>
+    <LineBreak nWidth="9157" Line="*    primary focus would cause a rise in tokenism within any circle it is applied (read this "/>
+    <Text nLength="32" nType="PortionType::Lay" nHeight="253" nWidth="3351" Portion="sentence and make sure it makes "/>
+    <LineBreak nWidth="3351" Line="sentence and make sure it makes "/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x5637783ea9b0" id="157" symbol="11SwTextFrame" next="158" prev="156" upper="136" txtNodeIndex="55" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8320" top="25641" width="9360" height="290" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="37" width="9360" height="253"/>
+    </infos>
+*    sense and non exclusionary).    <Text nLength="1" nType="PortionType::TabLeft" nHeight="253" nWidth="720" Portion="*"/>
+    <Text nLength="32" nType="PortionType::Text" nHeight="253" nWidth="3106" Portion="    sense and non exclusionary)."/>
+    <LineBreak nWidth="3826" Line="*    sense and non exclusionary)."/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x563778228680" id="158" symbol="11SwTextFrame" next="159" prev="157" upper="136" txtNodeIndex="56" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8320" top="25931" width="9360" height="290" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="37" width="9360" height="253"/>
+    </infos>
+ - What does this mean for physics    <Text nLength="34" nType="PortionType::Para" nHeight="253" nWidth="3375" Portion=" - What does this mean for physics"/>
+    <LineBreak nWidth="3375" Line=" - What does this mean for physics"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x5637730d0810" id="159" symbol="11SwTextFrame" next="160" prev="158" upper="136" txtNodeIndex="57" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8320" top="26221" width="9360" height="580" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="37" width="9360" height="543"/>
+    </infos>
+* - Whilst the laws, data, and mathematical systems used within physics are unobjective (idk if this is the right word) the     <Text nLength="1" nType="PortionType::TabLeft" nHeight="253" nWidth="720" Portion="*"/>
+    <Text nLength="87" nType="PortionType::Text" nHeight="253" nWidth="8511" Portion=" - Whilst the laws, data, and mathematical systems used within physics are unobjective "/>
+    <LineBreak nWidth="9231" Line="* - Whilst the laws, data, and mathematical systems used within physics are unobjective "/>
+    <Text nLength="36" nType="PortionType::Lay" nHeight="253" nWidth="3045" Portion="(idk if this is the right word) the "/>
+    <LineBreak nWidth="3045" Line="(idk if this is the right word) the "/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x5637783a96d0" id="160" symbol="11SwTextFrame" next="161" prev="159" upper="136" txtNodeIndex="58" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8320" top="26801" width="9360" height="580" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="37" width="9360" height="543"/>
+    </infos>
+*   methods, practices, and history of discoveries are not unobjective as the surcome to human error and &quot;potential     <Text nLength="1" nType="PortionType::TabLeft" nHeight="253" nWidth="720" Portion="*"/>
+    <Text nLength="88" nType="PortionType::Text" nHeight="253" nWidth="8426" Portion="   methods, practices, and history of discoveries are not unobjective as the surcome to "/>
+    <LineBreak nWidth="9146" Line="*   methods, practices, and history of discoveries are not unobjective as the surcome to "/>
+    <Text nLength="27" nType="PortionType::Lay" nHeight="253" nWidth="2659" Portion="human error and &quot;potential "/>
+    <LineBreak nWidth="2659" Line="human error and &quot;potential "/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x563778213ce0" id="161" symbol="11SwTextFrame" next="162" prev="160" upper="136" txtNodeIndex="59" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8320" top="27381" width="9360" height="580" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="37" width="9360" height="543"/>
+    </infos>
+*   discrimination&quot; (again idk if this is a good word choice). The decolonisation of physics looks to remove challenge     <Text nLength="1" nType="PortionType::TabLeft" nHeight="253" nWidth="720" Portion="*"/>
+    <Text nLength="92" nType="PortionType::Text" nHeight="253" nWidth="8528" Portion="   discrimination&quot; (again idk if this is a good word choice). The decolonisation of physics "/>
+    <LineBreak nWidth="9248" Line="*   discrimination&quot; (again idk if this is a good word choice). The decolonisation of physics "/>
+    <Text nLength="26" nType="PortionType::Lay" nHeight="253" nWidth="2617" Portion="looks to remove challenge "/>
+    <LineBreak nWidth="2617" Line="looks to remove challenge "/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x5637783b6550" id="162" symbol="11SwTextFrame" next="165" prev="161" upper="136" txtNodeIndex="60" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8320" top="27961" width="9360" height="580" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="37" width="9360" height="543"/>
+    </infos>
+*   previously thought truths of who discovered parts of physics and where this research took place IE the origin of optics,     <Text nLength="1" nType="PortionType::TabLeft" nHeight="253" nWidth="720" Portion="*"/>
+    <Text nLength="88" nType="PortionType::Text" nHeight="253" nWidth="8475" Portion="   previously thought truths of who discovered parts of physics and where this research "/>
+    <LineBreak nWidth="9195" Line="*   previously thought truths of who discovered parts of physics and where this research "/>
+    <Text nLength="36" nType="PortionType::Lay" nHeight="253" nWidth="3241" Portion="took place IE the origin of optics, "/>
+    <LineBreak nWidth="3241" Line="took place IE the origin of optics, "/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x5637783bf8f0" id="165" symbol="11SwTextFrame" next="166" prev="162" upper="136" txtNodeIndex="61" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8320" top="28541" width="9360" height="580" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="37" width="9360" height="543"/>
+    </infos>
+*   the established organisations that governs physics and how colonial view points affect these organisations, and overall to     <Text nLength="1" nType="PortionType::TabLeft" nHeight="253" nWidth="720" Portion="*"/>
+    <Text nLength="90" nType="PortionType::Text" nHeight="253" nWidth="8609" Portion="   the established organisations that governs physics and how colonial view points affect "/>
+    <LineBreak nWidth="9329" Line="*   the established organisations that governs physics and how colonial view points affect "/>
+    <Text nLength="36" nType="PortionType::Lay" nHeight="253" nWidth="3412" Portion="these organisations, and overall to "/>
+    <LineBreak nWidth="3412" Line="these organisations, and overall to "/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x5637783bfb50" id="166" symbol="11SwTextFrame" next="167" prev="165" upper="136" txtNodeIndex="62" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8320" top="29121" width="9360" height="580" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="37" width="9360" height="543"/>
+    </infos>
+*   make physics a more truthful field where all physicists are able to thrive and see themselves/their cultures represented (     <Text nLength="1" nType="PortionType::TabLeft" nHeight="253" nWidth="720" Portion="*"/>
+    <Text nLength="86" nType="PortionType::Text" nHeight="253" nWidth="8022" Portion="   make physics a more truthful field where all physicists are able to thrive and see "/>
+    <LineBreak nWidth="8742" Line="*   make physics a more truthful field where all physicists are able to thrive and see "/>
+    <Text nLength="40" nType="PortionType::Lay" nHeight="253" nWidth="3864" Portion="themselves/their cultures represented ( "/>
+    <LineBreak nWidth="3864" Line="themselves/their cultures represented ( "/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x5637783bbc60" id="167" symbol="11SwTextFrame" next="168" prev="166" upper="136" txtNodeIndex="63" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8320" top="29701" width="9360" height="580" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="37" width="9360" height="543"/>
+    </infos>
+*   need to add some part about how other countries practice physics, also idk if the last point is all too relevant given the     <Text nLength="1" nType="PortionType::TabLeft" nHeight="253" nWidth="720" Portion="*"/>
+    <Text nLength="90" nType="PortionType::Text" nHeight="253" nWidth="8475" Portion="   need to add some part about how other countries practice physics, also idk if the last "/>
+    <LineBreak nWidth="9195" Line="*   need to add some part about how other countries practice physics, also idk if the last "/>
+    <Text nLength="36" nType="PortionType::Lay" nHeight="253" nWidth="3204" Portion="point is all too relevant given the "/>
+    <LineBreak nWidth="3204" Line="point is all too relevant given the "/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x5637783c0ca0" id="168" symbol="11SwTextFrame" prev="167" upper="136" txtNodeIndex="64" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8320" top="30281" width="9360" height="290" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="37" width="9360" height="253"/>
+    </infos>
+*   differences between diversity and decolonisation)    <Text nLength="1" nType="PortionType::TabLeft" nHeight="253" nWidth="720" Portion="*"/>
+    <Text nLength="52" nType="PortionType::Text" nHeight="253" nWidth="4990" Portion="   differences between diversity and decolonisation)"/>
+    <LineBreak nWidth="5710" Line="*   differences between diversity and decolonisation)"/>
+    <Finish/>
+   </txt>
+  </body>
+ </page>
+ <page ptr="0x5637775877c0" id="163" symbol="11SwPageFrame" prev="135" upper="106" lower="164">
+  <page_status ValidFlyLayout="false" ValidFlyContent="false" ValidFlyInCnt="false" ValidLayout="false" ValidContent="false"/>
+  <infos>
+   <bounds left="6880" top="32532" width="12240" height="15840" mbFixSize="true" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+   <prtBounds left="1440" top="1440" width="9360" height="12960"/>
+  </infos>
+  <body ptr="0x563778224a60" id="164" symbol="11SwBodyFrame" upper="163" lower="169">
+   <infos>
+    <bounds left="8320" top="33972" width="9360" height="12960" mbFixSize="true" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+    <prtBounds left="0" top="0" width="9360" height="12960"/>
+   </infos>
+   <txt ptr="0x5637783c0410" id="169" symbol="11SwTextFrame" next="170" upper="164" txtNodeIndex="65" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8320" top="33972" width="9360" height="253" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9360" height="253"/>
+    </infos>
+ - Should EDI be included in this    <Text nLength="33" nType="PortionType::Para" nHeight="253" nWidth="3131" Portion=" - Should EDI be included in this"/>
+    <LineBreak nWidth="3131" Line=" - Should EDI be included in this"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x5637783b5f40" id="170" symbol="11SwTextFrame" next="171" prev="169" upper="164" txtNodeIndex="66" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8320" top="34225" width="9360" height="290" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="37" width="9360" height="253"/>
+    </infos>
+* - If not how does EDI relate if at all    <Finish/>
+   </txt>
+   <txt ptr="0x5637783b6f60" id="171" symbol="11SwTextFrame" next="172" prev="170" upper="164" txtNodeIndex="67" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8320" top="34515" width="9360" height="580" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="37" width="9360" height="543"/>
+    </infos>
+** - Whilst increased inclusion and diversity should be an overarching consequence of the decolonisation of physics it     <Finish/>
+   </txt>
+   <txt ptr="0x5637783c70b0" id="172" symbol="11SwTextFrame" next="173" prev="171" upper="164" txtNodeIndex="68" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8320" top="35095" width="9360" height="580" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="37" width="9360" height="543"/>
+    </infos>
+**   should not be the primary goal but should set the foundation for this type of work. Equality, Diversity, and Inclusion's     <Finish/>
+   </txt>
+   <txt ptr="0x5637783c73d0" id="173" symbol="11SwTextFrame" next="174" prev="172" upper="164" txtNodeIndex="69" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8320" top="35675" width="9360" height="580" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="37" width="9360" height="543"/>
+    </infos>
+**   (EDI) primary goal is to increase the percentage amount minoritized groups to be equivalent to those of the majority     <Finish/>
+   </txt>
+   <txt ptr="0x5637783ca2d0" id="174" symbol="11SwTextFrame" next="175" prev="173" upper="164" txtNodeIndex="70" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8320" top="36255" width="9360" height="580" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="37" width="9360" height="543"/>
+    </infos>
+**   groups (check if this is correct); Decolonisation at its core should increase the percentage of minoritized groups that     <Finish/>
+   </txt>
+   <txt ptr="0x5637783ca530" id="175" symbol="11SwTextFrame" next="176" prev="174" upper="164" txtNodeIndex="71" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8320" top="36835" width="9360" height="580" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="37" width="9360" height="543"/>
+    </infos>
+**   have been detrimented due to colonial structures but this should not be the primary reason for decolonisation as using     <Finish/>
+   </txt>
+   <txt ptr="0x5637783cbd50" id="176" symbol="11SwTextFrame" next="177" prev="175" upper="164" txtNodeIndex="72" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8320" top="37415" width="9360" height="580" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="37" width="9360" height="543"/>
+    </infos>
+**   EDI as a primary reason can cause ethical fallacies (look at this) and tokenism within departments both contravene the     <Finish/>
+   </txt>
+   <txt ptr="0x5637783c8fd0" id="177" symbol="11SwTextFrame" next="178" prev="176" upper="164" txtNodeIndex="73" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8320" top="37995" width="9360" height="580" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="37" width="9360" height="543"/>
+    </infos>
+**   ideas of decolonisation. Even though decolonisation's main reasoning should not be increased diversity, the practices     <Finish/>
+   </txt>
+   <txt ptr="0x5637783cf7c0" id="178" symbol="11SwTextFrame" next="179" prev="177" upper="164" txtNodeIndex="74" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8320" top="38575" width="9360" height="580" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="37" width="9360" height="543"/>
+    </infos>
+**   of EDI may be built from the work of decolonisation as it easily extends from one to another and can be seen as a     <Finish/>
+   </txt>
+   <txt ptr="0x5637783ac1f0" id="179" symbol="11SwTextFrame" next="180" prev="178" upper="164" txtNodeIndex="75" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8320" top="39155" width="9360" height="580" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="37" width="9360" height="543"/>
+    </infos>
+**   branch of this decolonisation work. Due to the intersectionality of the groups affected under current colonial ideas     <Finish/>
+   </txt>
+   <txt ptr="0x5637783adb10" id="180" symbol="11SwTextFrame" next="181" prev="179" upper="164" txtNodeIndex="76" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8320" top="39735" width="9360" height="580" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="37" width="9360" height="543"/>
+    </infos>
+**   and information a large amount of groups will benefit from the work of decolonisation however some groups will     <Finish/>
+   </txt>
+   <txt ptr="0x5637783b0b90" id="181" symbol="11SwTextFrame" next="182" prev="180" upper="164" txtNodeIndex="77" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8320" top="40315" width="9360" height="580" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="37" width="9360" height="543"/>
+    </infos>
+**   benefit more due to being disproportionately detrimented by the current colonial mindset most notably people with     <Finish/>
+   </txt>
+   <txt ptr="0x5637783b0380" id="182" symbol="11SwTextFrame" next="183" prev="181" upper="164" txtNodeIndex="78" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8320" top="40895" width="9360" height="580" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="37" width="9360" height="543"/>
+    </infos>
+**   cultural heritage from countries that were largely oppressed and occupied by the former british empire and other     <Finish/>
+   </txt>
+   <txt ptr="0x5637783bd730" id="183" symbol="11SwTextFrame" next="184" prev="182" upper="164" txtNodeIndex="79" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8320" top="41475" width="9360" height="290" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="37" width="9360" height="253"/>
+    </infos>
+**   colonial powers.    <Finish/>
+   </txt>
+   <txt ptr="0x5637783ad6f0" id="184" symbol="11SwTextFrame" next="185" prev="183" upper="164" txtNodeIndex="80" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8320" top="41765" width="9360" height="290" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="37" width="9360" height="253"/>
+    </infos>
+- Combine all this into an actual concrete definition    <Finish/>
+   </txt>
+   <txt ptr="0x5637783d0040" id="185" symbol="11SwTextFrame" next="186" prev="184" upper="164" txtNodeIndex="81" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8320" top="42055" width="9360" height="580" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="37" width="9360" height="543"/>
+    </infos>
+- Come up with a soft version of this to explain the necessary things to academics that might &quot;rage&quot;    <Finish/>
+   </txt>
+   <txt ptr="0x5637783ad280" id="186" symbol="11SwTextFrame" next="187" prev="185" upper="164" txtNodeIndex="82" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8320" top="42635" width="9360" height="290" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="37" width="9360" height="253"/>
+    </infos>
+&lt;!--stackedit_data:    <Finish/>
+   </txt>
+   <txt ptr="0x5637783eb5a0" id="187" symbol="11SwTextFrame" next="188" prev="186" upper="164" txtNodeIndex="83" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8320" top="42925" width="9360" height="290" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="37" width="9360" height="253"/>
+    </infos>
+eyJoaXN0b3J5IjpbLTUwODYyNjU5NCwxOTIzNjgwODU4LC0xMz    <Finish/>
+   </txt>
+   <txt ptr="0x5637783eb800" id="188" symbol="11SwTextFrame" next="189" prev="187" upper="164" txtNodeIndex="84" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8320" top="43215" width="9360" height="290" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="37" width="9360" height="253"/>
+    </infos>
+U3MDAzOTgxLDM2Mzc0NDkyOSwtNjMyMzk0NDM5LDIwMDczNTU0    <Finish/>
+   </txt>
+   <txt ptr="0x5637783e8fd0" id="189" symbol="11SwTextFrame" next="190" prev="188" upper="164" txtNodeIndex="85" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8320" top="43505" width="9360" height="290" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="37" width="9360" height="253"/>
+    </infos>
+NDQsLTkzNTY2NTY3NCwtMjE0MDg0MDQ2LC0xNDk0NDMwMzEzLD    <Finish/>
+   </txt>
+   <txt ptr="0x5637783e9eb0" id="190" symbol="11SwTextFrame" next="193" prev="189" upper="164" txtNodeIndex="86" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8320" top="43795" width="9360" height="290" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="37" width="9360" height="253"/>
+    </infos>
+E2NDgxMTc5NDAsMTQ5NzU1NzIwMl19    <Finish/>
+   </txt>
+   <txt ptr="0x5637783e5ee0" id="193" symbol="11SwTextFrame" prev="190" upper="164" txtNodeIndex="87" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8320" top="44085" width="9360" height="290" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="37" width="9360" height="253"/>
+    </infos>
+--&gt;    <Finish/>
+   </txt>
+  </body>
+ </page>
+</root>
